@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.49bf7478.css",
-  "main.css.map": "static/css/main.49bf7478.css.map",
-  "main.js": "static/js/main.ce64d000.js",
-  "main.js.map": "static/js/main.ce64d000.js.map",
+  "main.css": "static/css/main.9e0f42cc.css",
+  "main.css.map": "static/css/main.9e0f42cc.css.map",
+  "main.js": "static/js/main.a6f2497d.js",
+  "main.js.map": "static/js/main.a6f2497d.js.map",
   "static/media/bg_parallax_05.jpg": "static/media/bg_parallax_05.ce78a970.jpg",
   "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
@@ -10,6 +10,8 @@
   "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
   "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/interpretare_resized.jpg": "static/media/interpretare_resized.4177e102.jpg",
+  "static/media/legalizare.jpeg": "static/media/legalizare.20f963d7.jpeg",
   "static/media/logo_baltag_3.png": "static/media/logo_baltag_3.a0471780.png",
+  "static/media/titleSectionBackground.jpg": "static/media/titleSectionBackground.22d3fd70.jpg",
   "static/media/traduceri_resized.jpg": "static/media/traduceri_resized.4a359c9b.jpg"
 }
