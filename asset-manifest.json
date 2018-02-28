@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.85b253d4.css",
-  "main.css.map": "static/css/main.85b253d4.css.map",
-  "main.js": "static/js/main.44bb71bd.js",
-  "main.js.map": "static/js/main.44bb71bd.js.map",
+  "main.css": "static/css/main.82146399.css",
+  "main.css.map": "static/css/main.82146399.css.map",
+  "main.js": "static/js/main.80b3a212.js",
+  "main.js.map": "static/js/main.80b3a212.js.map",
   "static/media/bg_parallax_05.jpg": "static/media/bg_parallax_05.ce78a970.jpg",
   "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
@@ -12,6 +12,8 @@
   "static/media/interpretare_resized.jpg": "static/media/interpretare_resized.4177e102.jpg",
   "static/media/legalizare.jpeg": "static/media/legalizare.20f963d7.jpeg",
   "static/media/logo_baltag_3.png": "static/media/logo_baltag_3.a0471780.png",
+  "static/media/proofreading_section.jpeg": "static/media/proofreading_section.5a5f4b01.jpeg",
+  "static/media/proofreading_section_background.jpg": "static/media/proofreading_section_background.8e38f6e3.jpg",
   "static/media/titleSectionBackground.jpg": "static/media/titleSectionBackground.22d3fd70.jpg",
   "static/media/traduceri_resized.jpg": "static/media/traduceri_resized.4a359c9b.jpg"
 }
