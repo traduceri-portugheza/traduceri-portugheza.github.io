@@ -14,12 +14,12 @@ $smtp = Mail::factory('smtp', array(
     'password' => $password
 ));
 
-
 //START MAIL CODE HERE
-$name    = $_POST['name'];
-$from   = $_POST['email'];
-$message = $_POST['message'];
-$subject = "[Via Website]". $_POST['subject'];
+$data = json_decode(file_get_contents('php://input'), true);
+$name    = $data['name'];
+$from   = $data['email'];
+$message = $data['message'];
+$subject = "[Via Website]". $data['subject'];
 
 $sender = "messages-noreply@traducator-portugheza.ro";
 $fromFormatted = $name. " <". $from . ">";
