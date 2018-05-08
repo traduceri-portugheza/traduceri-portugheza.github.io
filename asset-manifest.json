@@ -1,19 +1,14 @@
 {
-  "main.css": "static/css/main.6fd7f737.css",
-  "main.css.map": "static/css/main.6fd7f737.css.map",
-  "main.js": "static/js/main.b073f5c5.js",
-  "main.js.map": "static/js/main.b073f5c5.js.map",
+  "main.css": "static/css/main.b05f12ba.css",
+  "main.css.map": "static/css/main.b05f12ba.css.map",
+  "main.js": "static/js/main.0e13b12a.js",
+  "main.js.map": "static/js/main.0e13b12a.js.map",
   "static/media/aboutMe2.jpeg": "static/media/aboutMe2.3f7980f4.jpeg",
-  "static/media/bg_parallax_05.jpg": "static/media/bg_parallax_05.ce78a970.jpg",
-  "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
-  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
-  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
-  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/bg_parallax_05.jpg": "static/media/bg_parallax_05.21636ed7.jpg",
   "static/media/interpretare_resized.jpg": "static/media/interpretare_resized.4177e102.jpg",
   "static/media/legalizare_main.jpeg": "static/media/legalizare_main.e7c685be.jpeg",
   "static/media/proofreading_section.jpeg": "static/media/proofreading_section.5a5f4b01.jpeg",
-  "static/media/proofreading_section_background.jpg": "static/media/proofreading_section_background.8e38f6e3.jpg",
+  "static/media/proofreading_section_background.jpg": "static/media/proofreading_section_background.5a6849af.jpg",
   "static/media/titleSectionBackground.jpg": "static/media/titleSectionBackground.22d3fd70.jpg",
-  "static/media/traduceri_resized.jpg": "static/media/traduceri_resized.4a359c9b.jpg"
+  "static/media/traduceri_resized.jpg": "static/media/traduceri_resized.cb55db36.jpg"
 }
